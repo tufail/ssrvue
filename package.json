@@ -1,0 +1,27 @@
+{
+  "name": "ssrvue",
+  "version": "1.0.0",
+  "description": "vue.js ssr node.js webpack typescript starter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tufail/ssrvue.git"
+  },
+  "keywords": [
+    "ssr",
+    "vue.js",
+    "node.js",
+    "webpack",
+    "starter",
+    "mongodb"
+  ],
+  "author": "Mohammed Tufail <786tufail@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tufail/ssrvue/issues"
+  },
+  "homepage": "https://github.com/tufail/ssrvue#readme"
+}
